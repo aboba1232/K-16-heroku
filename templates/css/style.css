@@ -1,0 +1,16 @@
+﻿p {
+  color: #550300;
+  position: absolute; /* Абсолютное позиционирование */
+  top: 250px; /* Положение от нижнего края */
+  left: 400px; /* Положение от правого края */
+  line-height: 1px;
+}
+p1 {
+  position: absolute; /* Абсолютное позиционирование */
+  top: 266px; /* Положение от нижнего края */
+  left: 700px; /* Положение от правого края */
+  line-height: 1px;
+}
+body {
+  background-image: url(https://www.zastavki.com/pictures/1920x1080/2014/3D-graphics_Blue_gradient_079806_23.jpg)
+}
